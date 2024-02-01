@@ -6,7 +6,6 @@
 [![ttkthemes](https://img.shields.io/badge/Library-ttkthemes-orange.svg)](https://ttkthemes.readthedocs.io/en/latest/)
 
 
-<img width="368" alt="Window" src="https://github.com/JimmyVS/Guess-The-Number/assets/96888699/e1119030-611a-447d-96e5-a2ab8e80ac6e">
 
 ## Description
 Welcome to the "Guess the Number" game! This simple game challenges players to guess a randomly generated number within a specified range. The game provides visual feedback and tracks the number of attempts made by the player.
