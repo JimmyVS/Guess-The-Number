@@ -1,4 +1,4 @@
-# Guess-The-Number
+# Guess The Number
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.md)
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
